@@ -1,0 +1,1 @@
+1. **The relationship between the "Product" and "Product_Category" entities is a one-to-many relationship, where one product can belong to only one category, but a category can have multiple products associated with it.**
